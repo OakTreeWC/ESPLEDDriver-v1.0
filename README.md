@@ -1,2 +1,29 @@
 # ESPLEDDriver-v1.0 (In Progress)
-ESPLEDDriver is an ESP Powered LED Driver Board for both Addressable and Non-Addressable LEDS. 
+ESPLEDDriver is an ESP Powered LED Driver Board for both Addressable and Non-Addressable LEDS. It features a ESP32-WROOM, with either a built in antenna or u.fl port, as well as 4 mosfet channels for powering monochrome and multicolor leds. 
+All GPIO pins are exposed directly to the IO headers on the right side, and all power/led related IO can be found on the left side via the screw terminals.
+Components have been sized accordingly to support 5-30V input, and up to 5 amps of current draw.
+
+<img width="1857" height="1301" alt="image" src="https://github.com/user-attachments/assets/b71c0f9a-0d7d-4cfd-8c49-6a5232ee0cf8" />
+<img width="1603" height="1199" alt="image" src="https://github.com/user-attachments/assets/8c41e55f-bfb6-420c-9769-ebc4a017bffe" />
+
+## Firmware
+Due to the PD complexity of adding a USBC port to this project, I refrained from adding one. However, that does mean that programming the board requires using a USB to UART adapter.
+
+In terms of firmware to be run on this, I will be using WLED, but one can use ESPHome or any other ESP based software to control it as well.
+
+## Usage
+This can be used in multiple ways, but what I believe is the most interesting (and fun) way to do it is to just integrate it with [Home Assistant](https://www.home-assistant.io/). If you really wanted to though, you could just use the Web Interface of WLED, or make your own firmware with its own API or something. The possibilities are literally endless, which is what makes the ESP platform so great.
+
+## I/O
+|Pin Number|Function|
+|----------|--------|
+|0|Addressable LED Data Line|
+|4|Non-Addressable LED Channel 1/Red|
+|5|Non-Addressable LED Channel 2/Green|
+|6|Non-Addressable LED Channel 3/Blue|
+|7|Non-Addressable LED Channel 4/White|
+
+All other non-strapping pins are just free, so one may use them for any other purpose.
+
+## Bill Of Materials
+W.I.P
