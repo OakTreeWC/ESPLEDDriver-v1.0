@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fuseholder")(type "KiCad")(uri "${KIPRJMOD}/resources/3568/3568.kicad_sym")(options "")(descr ""))
+)
