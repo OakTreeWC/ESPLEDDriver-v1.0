@@ -24,6 +24,11 @@ This can be used in multiple ways, but what I believe is the most interesting (a
 
 All other non-strapping pins are just free, so one may use them for any other purpose.
 
+## Example Schematics
+<img width="1067" height="596" alt="image" src="https://github.com/user-attachments/assets/622b2623-cb37-4f46-be5a-67ee780a9b5c" />
+<img width="1603" height="884" alt="image" src="https://github.com/user-attachments/assets/1bf86052-e2e9-461e-ac34-e07ccc0bd2b6" />
+<img width="1608" height="885" alt="image" src="https://github.com/user-attachments/assets/77a1ba09-d3e5-440d-b856-a9e01d44cfff" />
+
 ## Bill Of Materials
 |Item                       |Description                                                                                                   |Qty.|Unit Price (USD)|Total Price  (USD)|URL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |Running Total (USD incl. tax)|
 |---------------------------|--------------------------------------------------------------------------------------------------------------|----|----------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
