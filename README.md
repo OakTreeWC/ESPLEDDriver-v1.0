@@ -5,9 +5,6 @@ Components have been sized accordingly to support 5-30V input, and up to 5 amps 
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/OakTreeWC/ESPLEDDriver-v1.0/tree/main/PCB)
 
-<img width="1857" height="1301" alt="image" src="https://github.com/user-attachments/assets/b71c0f9a-0d7d-4cfd-8c49-6a5232ee0cf8" />
-<img width="1603" height="1199" alt="image" src="https://github.com/user-attachments/assets/8c41e55f-bfb6-420c-9769-ebc4a017bffe" />
-
 ## Firmware
 Due to the PD complexity of adding a USBC port to this project, I refrained from adding one. However, that does mean that programming the board requires using a USB to UART adapter.
 
@@ -32,3 +29,7 @@ W.I.P
 
 ## AI Usage Declaration
 AI was used in the making of this project, in component research, schematic/pcb verification, general sanity checks, as well as some copilot commit notes (for readme)
+
+## Gallery
+<img width="1857" height="1301" alt="image" src="https://github.com/user-attachments/assets/b71c0f9a-0d7d-4cfd-8c49-6a5232ee0cf8" />
+<img width="1603" height="1199" alt="image" src="https://github.com/user-attachments/assets/8c41e55f-bfb6-420c-9769-ebc4a017bffe" />
