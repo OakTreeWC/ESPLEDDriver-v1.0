@@ -31,5 +31,6 @@ W.I.P
 AI was used in the making of this project, in component research, schematic/pcb verification, general sanity checks, as well as some copilot commit notes (for readme)
 
 ## Gallery
-<img width="1857" height="1301" alt="image" src="https://github.com/user-attachments/assets/b71c0f9a-0d7d-4cfd-8c49-6a5232ee0cf8" />
-<img width="1603" height="1199" alt="image" src="https://github.com/user-attachments/assets/8c41e55f-bfb6-420c-9769-ebc4a017bffe" />
+<img width="3504" height="1398" alt="image" src="https://github.com/user-attachments/assets/d69baed3-e03a-434a-8e2d-4b0e415f2f66" />
+<img width="3529" height="1429" alt="image" src="https://github.com/user-attachments/assets/7e1de9e2-824e-4bb6-82de-5f0e51a534b5" />
+
