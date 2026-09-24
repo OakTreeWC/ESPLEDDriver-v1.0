@@ -64,4 +64,5 @@ AI was used in the making of this project, in component research, schematic/pcb 
 ## Gallery
 <img width="3504" height="1398" alt="image" src="https://github.com/user-attachments/assets/d69baed3-e03a-434a-8e2d-4b0e415f2f66" />
 <img width="3529" height="1429" alt="image" src="https://github.com/user-attachments/assets/7e1de9e2-824e-4bb6-82de-5f0e51a534b5" />
+<img width="1633" height="1401" alt="image" src="https://github.com/user-attachments/assets/986057bd-0157-4be0-bd12-61408a539fb5" />
 
